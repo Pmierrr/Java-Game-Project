@@ -1,1 +1,3 @@
-class Map{}
+class Map{
+    main
+}
